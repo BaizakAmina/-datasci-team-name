@@ -17,7 +17,7 @@ This project creates a 6-8 images story about Aldar Kose based on 4-6 sentences
 ## Pipeline
 LLM scenes -> prompts -> diffusion -> CLIP consistency check -> outputs + index.json
 
-##Criteria
+## Criteria
 - Technical implementation & ML justification — 70%
 - Character consistency & story coherence — 20%
 - Story quality & reproducibility — 10%
